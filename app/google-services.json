@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1059807333361",
+    "firebase_url": "https://melah-belajar.firebaseio.com",
+    "project_id": "melah-belajar",
+    "storage_bucket": "melah-belajar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059807333361:android:0a086b9353eb14a3685250",
+        "android_client_info": {
+          "package_name": "com.fawazalrasyid.mlhbelajar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059807333361-aqv212ef7r6o1r2f31lfhbuc2htatosj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_KwAiReBl3d5pcPNcv-7VabJ4aSxiBAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059807333361-aqv212ef7r6o1r2f31lfhbuc2htatosj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
